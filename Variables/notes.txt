@@ -1,0 +1,11 @@
+basic understanding:
+https://www.w3schools.com/js/js_variables.asp
+
+data types:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
+object data type:
+https://www.w3schools.com/js/js_objects.asp
+
+Date data type:
+https://www.geeksforgeeks.org/javascript-date-objects/
