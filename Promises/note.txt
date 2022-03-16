@@ -1,0 +1,23 @@
+Promises vs CallBack
+
+Promises (happens in the background)
+ - New feature of JS in ES6
+ - An object that will produce a single value in the future
+      - Either a resolved value, or a reason that it’s not resolved (rejected)
+ - States
+   - Fulfilled
+   - Rejected
+   - Pending
+ - Keyword new Promise(resolve, reject) => {})
+JS Callbacks (legacy before promises)
+ - When something is done execute this piece of code
+ - Get nested function
+   - Complicated code that is hard to read
+Ex:
+  - Event Listener
+
+Promises are generally used for easier handling of asynchronous operations or blocking code, for example, file operations, API calls, DB calls, IO calls, etc.
+
+
+links:
+- https://medium.com/better-programming/understanding-promises-in-javascript-13d99df067c1

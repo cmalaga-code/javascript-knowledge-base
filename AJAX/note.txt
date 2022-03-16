@@ -1,0 +1,5 @@
+// AJAX created in order to not re-render the whole page
+// Asynchronouse JavaScript and XML
+// Asynchronouse processing model
+// Asynchronouse === happening at the same time
+// AJAX method of bringing technologies together
