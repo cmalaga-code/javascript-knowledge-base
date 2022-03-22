@@ -12,6 +12,7 @@
     <li>Good practice to keep array's with the same data types for performance.</li>
     <li>JavaScript has pre-defined methods for arrays.</li>
     <li>You can have different data structures in an array.</li>
+    <li>Iterable.</li>
     <li>https://www.w3schools.com/jsref/jsref_obj_array.asp</li>
 </ul>
 
@@ -47,6 +48,7 @@ console.log(arrayExample[4][0]);
     <li>Properties define characteristics.</li>
     <li>Use dot-notation & bracket notation.</li>
     <li>You can use different data structures in a object.</li>
+    <li>Enumerable. (you can enumerate the properties of the object)</li>
     <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects</li>
 </ul>
 
