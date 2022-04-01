@@ -5,7 +5,7 @@ const server = http.createServer((request, response) => {
     console.log("method", request.method)
     console.log("url", response.url)
     const user = {
-        name: "John",
+        name: "example",
         age: 29
     }
     response.setHeader('Content-Type', 'application/json');
